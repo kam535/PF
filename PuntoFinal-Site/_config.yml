@@ -1,0 +1,7 @@
+title: "Punto Final Collection"
+description: "Colección digital de documentos de la revista Punto Final"
+url: "https://gorka350.github.io/PuntoFinal-Site"
+source: .
+collections:
+  objects:
+    output: true
