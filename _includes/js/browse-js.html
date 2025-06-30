@@ -31,7 +31,7 @@ function makeCard(obj) {
     } else if (obj.format.includes("video")) {
         thumbSrc = '{{ "/assets/lib/icons/" | relative_url }}{{ icons.icon-video }}.svg';  
     } else if (obj.format.includes("pdf")) {
-        thumbSrc = '{{ "obj.format.image_small" | relative_url }}';
+        thumbSrc = '{{ obj.image_small | relative_url }}';
     } else if (obj.format.includes("record")) {
         thumbSrc = '{{ "/assets/lib/icons/" | relative_url }}{{ icons.icon-record }}.svg';
     } else if (obj.format.includes("compound")) {
