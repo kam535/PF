@@ -5,6 +5,7 @@ permalink: /about.html
 ---
 
 # Acerca de la colección
+![Portada de *Punto Final*, marzo de 1971]({{ '/assets/img/1971_marzo_primera_quincena.jpg' | relative_url }}){: .img-fluid .mx-auto d-block w-50 }
 
 Esta colección digital reúne ediciones de la revista *Punto Final*, una publicación política chilena activa entre 1965 y 2018. A través de sus páginas se puede acceder a debates ideológicos, reportajes, y testimonios sobre los procesos políticos y sociales más relevantes del siglo XX chileno.
 
